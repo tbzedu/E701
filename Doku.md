@@ -6,7 +6,7 @@
 ##Tagesziele
 ---
 - Fahrplan erstellen.
-- Linux Installierne
+- Linux Installieren
 ---
 ##Ziele für 16.5.2019
 
